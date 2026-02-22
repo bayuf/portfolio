@@ -69,6 +69,7 @@ const CONFIG = {
     'PostgreSQL',
     'Git',
     'Docker',
+    'Mikrotik',
   ],
   experiences: [
     {
